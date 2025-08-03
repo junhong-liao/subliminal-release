@@ -1,2 +1,2 @@
 # subliminal-release
-Repository containing Subliminal AI releases
+Subliminal AI releases for macOS and Windows
